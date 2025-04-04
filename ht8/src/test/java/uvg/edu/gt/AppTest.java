@@ -1,3 +1,14 @@
+/**
+ * Clase de pruebas unitarias para verificar el comportamiento de la clase {@link VectorHeap}
+ * y la clase {@link Paciente}. Utiliza JUnit 4.
+ * <p>
+ * Se prueba la correcta inserción, extracción, comparación y manejo de excepciones en el heap.
+ * También se verifica el método {@code clear()} del heap.
+ * </p>
+ * 
+ * @author Adriana 24086
+ * 
+ */
 package uvg.edu.gt;
 
 import org.junit.Test;
