@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.util.Scanner;
 
 /**
- * Aplicación principal para el sistema de atención de pacientes.
+ * Aplicación principal para el sistema de atención de pacientes
  */
 public class App {
 
